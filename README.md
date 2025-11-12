@@ -1,10 +1,10 @@
 # ***存放一些图片***
 
 - #### *美丽的河流*
-![美丽的河流](https://github.com/yukikaze996/image/blob/main/%E6%8B%8D%E6%91%84/%E9%A3%8E%E6%99%AF/IMG_20250616_162535.jpg?raw=true)
+![美丽的河流](https://github.com/yukikaze996/image/blob/main/%E6%8B%8D%E6%91%84/%E9%A3%8E%E6%99%AF/IMG_20250616_162535.jpg?raw=true "20250616_162535")
 
 - #### *美丽的云彩*
-![美丽的云彩](https://github.com/yukikaze996/image/blob/main/%E6%8B%8D%E6%91%84/%E9%A3%8E%E6%99%AF/IMG_20251110_171858.jpg?raw=true)
+![美丽的云彩](https://github.com/yukikaze996/image/blob/main/%E6%8B%8D%E6%91%84/%E9%A3%8E%E6%99%AF/IMG_20251110_171858.jpg?raw=true "20251110_171858")
 
 
 
